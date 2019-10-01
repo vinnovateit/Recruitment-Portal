@@ -1,3 +1,5 @@
+![VinnovateIT logo](https://github.com/vinitshahdeo/Recruitment-Portal/blob/master/image/vinnovateit.png?raw=true)
+
 # [VinnovateIT](https://www.facebook.com/VinnovateIT/) - Recruitment Portal
 
 
@@ -5,23 +7,31 @@
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/Recruitment-Portal.svg?logo=github&style=social)](https://vinitshahdeo.github.io/Recruitment-Portal/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Recruitment-Portal.svg?logo=git&style=social)](https://vinitshahdeo.github.io/Recruitment-Portal/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Recruitment-Portal.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Recruitment-Portal/blob/master/LICENSE)
 
+```
+__     ___                             _       ___ _____ 
+\ \   / (_)_ __  _ __   _____   ____ _| |_ ___|_ _|_   _|
+ \ \ / /| | '_ \| '_ \ / _ \ \ / / _` | __/ _ \| |  | |  
+  \ V / | | | | | | | | (_) \ V / (_| | ||  __/| |  | |  
+   \_/  |_|_| |_|_| |_|\___/ \_/ \__,_|\__\___|___| |_|  
+                                                         
+```
 
 [VinnovateIT](https://www.facebook.com/VinnovateIT/) is an OFFICIAL innovation and incubation lab of SITE School.
 VinnovateIT help the members to develop their projects both technically as well as budding entrepreneurs. It is a platform for the students to come up with innovative ideas where one can work on their areas of interest. It also provides an atmosphere of collaborative learning in those areas.
 
-![VinnovateIT Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal/blob/master/demo/vinnovateitgif.gif)
+![VinnovateIT Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal/blob/master/demo/vinnovateitgif.gif?raw=true)
 
 > Stay connected with VinnovateIT's [Facebook](https://www.facebook.com/VinnovateIT/) page.
 
 
 ## Technology Stack Used
 
-![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5) 
-![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3)
-![JavaScript](https://img.shields.io/badge/frontend-js-ff69b4.svg?logo=javascript)
-![Bootstrap](https://img.shields.io/badge/framework-bootstrap-dodgerblue.svg?logo=bootstrap)
-![PHP](https://img.shields.io/badge/backend-php-blue.svg?logo=php) 
-![MYSQL](https://img.shields.io/badge/database-mysql-lightgray.svg?logo=mysql&logoColor=white) 
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
+![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
+![JavaScript](https://img.shields.io/badge/frontend-js-ff69b4.svg?logo=javascript&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/framework-bootstrap-dodgerblue.svg?logo=bootstrap&style=flat-square)
+![PHP](https://img.shields.io/badge/backend-php-blue.svg?logo=php&style=flat-square) 
+![MYSQL](https://img.shields.io/badge/database-mysql-lightgray.svg?logo=mysql&logoColor=white&style=flat-square) 
 
 - Front End - **HTML**, **CSS**, **JavaScript**
 - Framewrok - **[Bootstrap](https://getbootstrap.com/)**
@@ -56,6 +66,16 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 
 ## Need help?
 
+```javascript
+
+  if (needHelp === true) {
+     var emailId = "vinitshahdeo@gmail.com";
+     // email is the best way to reach out to me.
+     sendEmail(emailId);
+  }
+
+```
+
 Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
 
 Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
@@ -71,7 +91,54 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
 ## Oh, Thanks!
 
-Thank you for being here! Show some love by [starring](https://github.com/vinitshahdeo/Recruitment-Portal/) this repo.
+```bash
 
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/Recruitment-Portal.svg?style=social)](https://twitter.com/intent/tweet?text=Recruitment%20Portal%20by@Vinit_Shahdeo%20:&url=https://github.com/vinitshahdeo/Recruitment-Portal) [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo) 
+
+
+ _____ _                 _     __   __            
+|_   _| |               | |    \ \ / /            
+  | | | |__   __ _ _ __ | | __  \ V /___  _   _   
+  | | | '_ \ / _` | '_ \| |/ /   \ // _ \| | | |  
+  | | | | | | (_| | | | |   <    | | (_) | |_| |  
+  \_/ |_| |_|\__,_|_| |_|_|\_\   \_/\___/ \__,_|  
+                                                  
+                                                  
+______                                            
+|  ___|                                           
+| |_ ___  _ __                                    
+|  _/ _ \| '__|                                   
+| || (_) | |                                      
+\_| \___/|_|                                      
+                                                  
+                                                  
+______      _               _   _               _ 
+| ___ \    (_)             | | | |             | |
+| |_/ / ___ _ _ __   __ _  | |_| | ___ _ __ ___| |
+| ___ \/ _ \ | '_ \ / _` | |  _  |/ _ \ '__/ _ \ |
+| |_/ /  __/ | | | | (_| | | | | |  __/ | |  __/_|
+\____/ \___|_|_| |_|\__, | \_| |_/\___|_|  \___(_)
+                     __/ |                        
+                    |___/                         
+
+ 
+
+
+```
+
+***Glad to see you here! Show some love by [starring](https://github.com/vinitshahdeo/Recruitment-Portal/) this repo.***
+
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/Recruitment-Portal.svg?style=social)](https://twitter.com/intent/tweet?text=Recruitment%20Portal%20by@Vinit_Shahdeo%20:&url=https://github.com/vinitshahdeo/Recruitment-Portal) [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo)
+
+-----
+
+```javascript
+
+  if (isAwesome) {
+    // thanks in advance :p
+    starThisRepository();
+  }
+
+```
+
+******
 
